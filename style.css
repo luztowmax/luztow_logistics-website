@@ -1,0 +1,39 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.navbar {
+    background-color: black;
+}
+.navbar-brand {
+    color: white;
+}
+.nav-link {
+    color: white;
+}
+.carousel-item {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.landing-text {
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+}
+.about-section, .services-section, .testimonial-section, .contact-section {
+    padding: 60px 0;
+}
+.footer {
+    background-color: black;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+.footer a {
+    color: white;
+    margin: 0 10px;
+}
+.company-logo {
+    max-width: 150px;
+}
